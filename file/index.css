@@ -1,0 +1,21 @@
+img {
+    margin-right: 40%;
+    margin-bottom: 80%;
+    width: 250px;
+}
+div{
+    width: 30%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    right: -90px;
+    flex-wrap: wrap;
+    bottom:10px;
+    align-items:flex-end;
+    font-size: 20 px;
+    padding: 0px;
+    line-height: 0px;
+    padding-left:50px;
+    padding-right: 50px;}
+    
+    
